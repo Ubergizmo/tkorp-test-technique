@@ -51,4 +51,4 @@ Vous devrez cloner les dépôts du backend et du frontend.
 3. Lancez le front:
 
      ```bash
-     npm run start
+     npm run dev
